@@ -10,4 +10,3 @@ for i in y:
             pyautogui.typewrite(i)
             break
     time.sleep(0.05)
-
